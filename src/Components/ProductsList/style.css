@@ -1,0 +1,16 @@
+.title {
+  background-color: #fff;
+  height: 75px;
+  box-sizing: border-box;
+}
+
+h2 {
+  padding-top: 20px;
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
